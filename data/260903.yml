@@ -1,0 +1,58 @@
+about:
+  description: 🛜 TUI for managing wifi on Linux
+  license: GPL-3.0
+  homepage: 
+  head: 7587092
+  archived: false
+  latestVersion: v0.9.0
+  collectedAt: 2026-09-03T05:16:51Z
+timeline:
+  created: 2024-06-09
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-27
+popularity:
+  star: 2827
+  watcher: 13
+  fork: 55
+  release: 20
+  contributor: 19
+  pullRequest: 9
+  issue: 108
+language:
+  Rust: 262325
+  Nix: 803
+  Just: 79
+totalLine: 263207
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 3
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 9
+  last90d:
+    since: 2026-06-05
+    release: 3
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 7
+    openIssue: 0
+    commit: 9
+  last180d:
+    since: 2026-03-07
+    release: 3
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 18
+    openIssue: 0
+    commit: 13
+  last360d:
+    since: 2025-09-08
+    release: 12
+    mergedPR: 19
+    openPR: 0
+    closedIssue: 76
+    openIssue: 0
+    commit: 63
