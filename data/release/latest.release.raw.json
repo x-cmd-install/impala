@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5179536,
       "digest": "sha256:8dd39cec5137277717821c48d04cfd49d95b1393c8ff342bd77e538d87684acd",
-      "download_count": 63,
+      "download_count": 65,
       "created_at": "2026-08-27T17:10:15Z",
       "updated_at": "2026-08-27T17:10:15Z",
       "browser_download_url": "https://github.com/pythops/impala/releases/download/v0.9.0/impala-x86_64-unknown-linux-musl"
