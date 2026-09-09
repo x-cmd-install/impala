@@ -7,7 +7,7 @@
 - **Latest release**: `v0.9.0` (2026-08-27)
 - **Last commit**: 2026-08-27
 - **License**: GPL-3.0
-- **Stars**: 2843 · **Forks**: 57 · **Open issues**: 110 · **Contributors**: 19
+- **Stars**: 2844 · **Forks**: 57 · **Open issues**: 110 · **Contributors**: 19
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/impala> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:53:19Z._
+_Last regenerated: 2026-09-09T19:05:13Z._
