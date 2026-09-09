@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.0"
   latestRelease: "v0.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:53:16Z
+  collectedAt: 2026-09-09T19:05:10Z
 timeline:
   created: 2024-06-09
   lastCommit: 2026-08-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 2843
+  star: 2844
   watcher: 13
   fork: 57
   release: 20
@@ -85,7 +85,7 @@ total:
   commit: 134
 ---
 path: /home/runner/.x-repo/github.com/pythops/impala
-collectedAt: 2026-09-09T04:53:17Z
+collectedAt: 2026-09-09T19:05:10Z
 loc:
   Rust:
     code: 6885
