@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4384256,
       "digest": "sha256:7010a1b854c18e89c696d2d870c0d3e06f6dd8ce62aad6da5fd7b1d75b7f0786",
-      "download_count": 60,
+      "download_count": 62,
       "created_at": "2026-08-27T17:10:15Z",
       "updated_at": "2026-08-27T17:10:15Z",
       "browser_download_url": "https://github.com/pythops/impala/releases/download/v0.9.0/impala-aarch64-unknown-linux-musl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5179536,
       "digest": "sha256:8dd39cec5137277717821c48d04cfd49d95b1393c8ff342bd77e538d87684acd",
-      "download_count": 85,
+      "download_count": 89,
       "created_at": "2026-08-27T17:10:15Z",
       "updated_at": "2026-08-27T17:10:15Z",
       "browser_download_url": "https://github.com/pythops/impala/releases/download/v0.9.0/impala-x86_64-unknown-linux-musl"
