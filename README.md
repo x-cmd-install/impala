@@ -4,7 +4,7 @@
 
 🛜 TUI for managing wifi on Linux
 
-![impala](https://repo.x-cmd.io/impala.svg)
+[![x-cmd/install — impala Code Quality Monitoring Repo Card](https://repo.x-cmd.io/impala.svg)](https://x-cmd.com/install/impala)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **6,961** lines of code across **39** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,853 · **Forks**: 58 · **Open issues**: 110 · **Contributors**: 19
+- **Stars**: 2,856 · **Forks**: 58 · **Open issues**: 110 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **6,961** lines of code across **39** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 2 | 0 | 5 | 0 | 9 |
-| last60d | 2026-07-20 | 3 | 2 | 0 | 7 | 0 | 9 |
-| 90d | 2026-06-20 | 3 | 3 | 0 | 7 | 0 | 9 |
-| last180d | 2026-03-22 | 3 | 6 | 0 | 18 | 0 | 13 |
-| 360d | 2025-09-23 | 12 | 19 | 0 | 68 | 0 | 63 |
-| last720d | 2024-09-28 | 14 | 28 | 0 | 100 | 0 | 78 |
+| 30d | 2026-08-21 | 3 | 2 | 0 | 5 | 0 | 0 |
+| last60d | 2026-07-22 | 3 | 2 | 0 | 7 | 0 | 9 |
+| 90d | 2026-06-22 | 3 | 3 | 0 | 7 | 0 | 9 |
+| last180d | 2026-03-24 | 3 | 6 | 0 | 17 | 0 | 13 |
+| 360d | 2025-09-25 | 12 | 18 | 0 | 67 | 0 | 62 |
+| last720d | 2024-09-30 | 14 | 28 | 0 | 100 | 0 | 78 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for impala lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:48:53Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:07:24Z._
