@@ -4,7 +4,7 @@
 
 🛜 TUI for managing wifi on Linux
 
-[![x-cmd/install — impala Code Quality Monitoring Repo Card](https://repo.x-cmd.io/impala.svg?lang=zh)](https://x-cmd.com/install/impala)
+[![x-cmd/install — impala Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/impala.svg?lang=zh)](https://x-cmd.com/install/impala)
 
 ## 安装
 
@@ -36,7 +36,7 @@ x install impala
 
 ## 流行度
 
-- **Star**: 2,857 · **Fork**: 59 · **开放 issue**: 110 · **贡献者**: 19
+- **Star**: 2,861 · **Fork**: 59 · **开放 issue**: 110 · **贡献者**: 19
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install impala
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 2 | 0 | 5 | 0 | 0 |
-| last60d | 2026-07-24 | 3 | 2 | 0 | 7 | 0 | 9 |
-| 90d | 2026-06-24 | 3 | 3 | 0 | 7 | 0 | 9 |
-| last180d | 2026-03-26 | 3 | 6 | 0 | 16 | 0 | 13 |
-| 360d | 2025-09-27 | 12 | 18 | 0 | 67 | 0 | 62 |
-| last720d | 2024-10-02 | 14 | 28 | 0 | 100 | 0 | 78 |
+| 30d | 2026-08-24 | 3 | 1 | 0 | 5 | 0 | 0 |
+| last60d | 2026-07-25 | 3 | 2 | 0 | 7 | 0 | 9 |
+| 90d | 2026-06-25 | 3 | 3 | 0 | 7 | 0 | 9 |
+| last180d | 2026-03-27 | 3 | 6 | 0 | 16 | 0 | 13 |
+| 360d | 2025-09-28 | 12 | 18 | 0 | 67 | 0 | 62 |
+| last720d | 2024-10-03 | 14 | 28 | 0 | 99 | 0 | 78 |
 
 ## Release 资产
 
@@ -69,4 +69,4 @@ impala 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:08:01Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:59:39Z._
