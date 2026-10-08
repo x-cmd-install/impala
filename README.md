@@ -14,11 +14,11 @@ x install impala
 
 ## Code insight
 
-Total: **6,961** lines of code across **39** files in the top 5 languages.
+Total: **6,956** lines of code across **39** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 6,885 | 37 | 715 | 34 |
+| Rust | 6,880 | 37 | 715 | 34 |
 | Toml | 41 | 0 | 2 | 1 |
 | Nix | 35 | 0 | 5 | 2 |
 | Markdown | 0 | 134 | 82 | 2 |
@@ -31,27 +31,27 @@ Total: **6,961** lines of code across **39** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.0` (2026-08-27)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-07
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 2,877 · **Forks**: 61 · **Open issues**: 112 · **Contributors**: 19
+- **Stars**: 2,879 · **Forks**: 60 · **Open issues**: 112 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 34 · **Open PRs**: 1 · **Closed issues**: 111 · **Open issues**: 1 · **Commits**: 136
+- **Releases**: 20 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 112 · **Open issues**: 0 · **Commits**: 137
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 1 | 1 | 1 | 1 | 2 |
-| last60d | 2026-08-08 | 3 | 3 | 1 | 7 | 1 | 11 |
-| 90d | 2026-07-09 | 3 | 3 | 1 | 8 | 1 | 11 |
-| last180d | 2026-04-10 | 3 | 7 | 1 | 14 | 1 | 14 |
-| 360d | 2025-10-12 | 12 | 19 | 1 | 64 | 1 | 63 |
-| last720d | 2024-10-17 | 14 | 29 | 1 | 100 | 1 | 80 |
+| 30d | 2026-09-08 | 0 | 2 | 0 | 2 | 0 | 3 |
+| last60d | 2026-08-09 | 3 | 4 | 0 | 8 | 0 | 12 |
+| 90d | 2026-07-10 | 3 | 4 | 0 | 9 | 0 | 12 |
+| last180d | 2026-04-11 | 3 | 7 | 0 | 15 | 0 | 15 |
+| 360d | 2025-10-13 | 12 | 20 | 0 | 65 | 0 | 64 |
+| last720d | 2024-10-18 | 14 | 30 | 0 | 101 | 0 | 81 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for impala lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:58:55Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:10:08Z._
