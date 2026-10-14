@@ -36,22 +36,22 @@ Total: **6,956** lines of code across **39** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,881 · **Forks**: 61 · **Open issues**: 113 · **Contributors**: 20
+- **Stars**: 2,882 · **Forks**: 61 · **Open issues**: 112 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 113 · **Open issues**: 0 · **Commits**: 137
+- **Releases**: 20 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 112 · **Open issues**: 0 · **Commits**: 137
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 2 | 0 | 3 | 0 | 3 |
-| last60d | 2026-08-14 | 3 | 4 | 0 | 8 | 0 | 12 |
-| 90d | 2026-07-15 | 3 | 4 | 0 | 10 | 0 | 12 |
-| last180d | 2026-04-16 | 3 | 6 | 0 | 15 | 0 | 15 |
-| 360d | 2025-10-18 | 11 | 19 | 0 | 64 | 0 | 60 |
-| last720d | 2024-10-23 | 14 | 30 | 0 | 102 | 0 | 81 |
+| 30d | 2026-09-14 | 0 | 2 | 0 | 3 | 0 | 3 |
+| last60d | 2026-08-15 | 3 | 4 | 0 | 8 | 0 | 12 |
+| 90d | 2026-07-16 | 3 | 4 | 0 | 10 | 0 | 12 |
+| last180d | 2026-04-17 | 3 | 5 | 0 | 14 | 0 | 15 |
+| 360d | 2025-10-19 | 11 | 19 | 0 | 64 | 0 | 60 |
+| last720d | 2024-10-24 | 14 | 30 | 0 | 102 | 0 | 81 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for impala lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:57:33Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:02:35Z._
