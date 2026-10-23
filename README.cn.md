@@ -36,7 +36,7 @@ x install impala
 
 ## 流行度
 
-- **Star**: 2,889 · **Fork**: 62 · **开放 issue**: 112 · **贡献者**: 20
+- **Star**: 2,888 · **Fork**: 62 · **开放 issue**: 112 · **贡献者**: 20
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install impala
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 0 | 3 | 0 | 3 |
-| last60d | 2026-08-23 | 3 | 4 | 0 | 8 | 0 | 8 |
-| 90d | 2026-07-24 | 3 | 4 | 0 | 10 | 0 | 12 |
-| last180d | 2026-04-25 | 3 | 5 | 0 | 13 | 0 | 15 |
-| 360d | 2025-10-27 | 10 | 19 | 0 | 63 | 0 | 59 |
-| last720d | 2024-11-01 | 14 | 30 | 0 | 102 | 0 | 81 |
+| 30d | 2026-09-23 | 0 | 2 | 0 | 3 | 0 | 3 |
+| last60d | 2026-08-24 | 3 | 3 | 0 | 8 | 0 | 8 |
+| 90d | 2026-07-25 | 3 | 4 | 0 | 10 | 0 | 12 |
+| last180d | 2026-04-26 | 3 | 5 | 0 | 12 | 0 | 15 |
+| 360d | 2025-10-28 | 10 | 19 | 0 | 63 | 0 | 59 |
+| last720d | 2024-11-02 | 14 | 30 | 0 | 102 | 0 | 81 |
 
 ## Release 资产
 
@@ -59,6 +59,18 @@ x install impala
 |------|-----:|----------|
 | [impala-aarch64-unknown-linux-musl](https://github.com/pythops/impala/releases/download/v0.9.0/impala-aarch64-unknown-linux-musl) | 4.2 MiB | `native/linux/arm64/musl` |
 | [impala-x86_64-unknown-linux-musl](https://github.com/pythops/impala/releases/download/v0.9.0/impala-x86_64-unknown-linux-musl) | 4.9 MiB | `native/linux/x64/musl` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/impala) 上共有 **25** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.9.0` | ✅ latest |
+| Nix unstable | `0.9.0` | ✅ latest |
+| Void | `0.9.0` | ✅ latest |
+| Alpine edge | `0.9.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.9.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -69,4 +81,4 @@ impala 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:43:47Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:47:26Z._
