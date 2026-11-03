@@ -130,7 +130,7 @@
   summary: TUI frontend for iwd (documentation)
   licenses:
     - GPL-3.0-only
-- repo: manjaro_stable
+- repo: manjaro_unstable
   subrepo: extra
   srcname: impala
   binname: impala
@@ -139,6 +139,28 @@
   origversion: 0.9.0-1
   status: newest
   summary: TUI for managing wifi
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: impala
+  visiblename: impala
+  version: 0.2.3
+  origversion: null
+  status: outdated
+  summary: TUI for managing wifi
+  maintainers:
+    - nix@ccnlc.eu
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: impala
+  visiblename: impala
+  version: 0.2.4
+  origversion: null
+  status: outdated
+  summary: TUI for managing wifi
+  maintainers:
+    - nix@ccnlc.eu
   licenses:
     - GPL-3.0-only
 - repo: nix_stable_25_11
@@ -255,49 +277,5 @@
   summary: TUI for managing wifi on Linux
   maintainers:
     - orphan@voidlinux.org
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: impala
-  binname: impala
-  visiblename: impala
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: newest
-  summary: TUI for managing wifi
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_11
-  srcname: impala
-  visiblename: impala
-  version: 0.2.3
-  origversion: null
-  status: outdated
-  summary: TUI for managing wifi
-  maintainers:
-    - nix@ccnlc.eu
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: impala
-  visiblename: impala
-  version: 0.2.4
-  origversion: null
-  status: outdated
-  summary: TUI for managing wifi
-  maintainers:
-    - nix@ccnlc.eu
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: impala
-  binname: impala
-  visiblename: impala
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: newest
-  summary: TUI for managing wifi
   licenses:
     - GPL-3.0-only
