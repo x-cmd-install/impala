@@ -130,6 +130,28 @@
   summary: TUI frontend for iwd (documentation)
   licenses:
     - GPL-3.0-only
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: impala
+  binname: impala
+  visiblename: impala
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: newest
+  summary: TUI for managing wifi
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: impala
+  binname: impala
+  visiblename: impala
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: newest
+  summary: TUI for managing wifi
+  licenses:
+    - GPL-3.0-only
 - repo: manjaro_unstable
   subrepo: extra
   srcname: impala
