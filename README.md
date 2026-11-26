@@ -14,12 +14,12 @@ x install impala
 
 ## Code insight
 
-Total: **6,956** lines of code across **39** files in the top 5 languages.
+Total: **6,996** lines of code across **39** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 6,880 | 37 | 715 | 34 |
-| Toml | 41 | 0 | 2 | 1 |
+| Rust | 6,921 | 37 | 717 | 34 |
+| Toml | 40 | 0 | 2 | 1 |
 | Nix | 35 | 0 | 5 | 2 |
 | Markdown | 0 | 134 | 82 | 2 |
 
@@ -31,27 +31,27 @@ Total: **6,956** lines of code across **39** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.0` (2026-08-27)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-11-25
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 2,896 · **Forks**: 62 · **Open issues**: 117 · **Contributors**: 20
+- **Stars**: 2,897 · **Forks**: 62 · **Open issues**: 117 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 35 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 3 · **Commits**: 137
+- **Releases**: 20 · **Merged PRs**: 36 · **Open PRs**: 0 · **Closed issues**: 115 · **Open issues**: 2 · **Commits**: 138
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 1 | 1 | 2 | 0 |
-| last60d | 2026-09-26 | 0 | 2 | 1 | 4 | 3 | 3 |
-| 90d | 2026-08-27 | 1 | 2 | 1 | 8 | 3 | 3 |
-| last180d | 2026-05-29 | 3 | 5 | 1 | 13 | 3 | 12 |
-| 360d | 2025-11-30 | 8 | 13 | 1 | 50 | 3 | 32 |
-| last720d | 2024-12-05 | 13 | 28 | 1 | 100 | 3 | 76 |
+| 30d | 2026-10-27 | 0 | 1 | 0 | 2 | 1 | 0 |
+| last60d | 2026-09-27 | 0 | 3 | 0 | 5 | 2 | 0 |
+| 90d | 2026-08-28 | 0 | 3 | 0 | 8 | 2 | 0 |
+| last180d | 2026-05-30 | 3 | 6 | 0 | 14 | 2 | 0 |
+| 360d | 2025-12-01 | 8 | 13 | 0 | 49 | 2 | 0 |
+| last720d | 2024-12-06 | 13 | 29 | 0 | 101 | 2 | 77 |
 
 ## Release assets
 
@@ -59,6 +59,18 @@ Total: **6,956** lines of code across **39** files in the top 5 languages.
 |-------|-----:|--------|
 | [impala-aarch64-unknown-linux-musl](https://github.com/pythops/impala/releases/download/v0.9.0/impala-aarch64-unknown-linux-musl) | 4.2 MiB | `native/linux/arm64/musl` |
 | [impala-x86_64-unknown-linux-musl](https://github.com/pythops/impala/releases/download/v0.9.0/impala-x86_64-unknown-linux-musl) | 4.9 MiB | `native/linux/x64/musl` |
+
+## Distribution status
+
+Reported by **25** distros on [repology.org](https://repology.org/project/impala). **16** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.9.0` | ✅ latest |
+| Nix unstable | `0.9.0` | ✅ latest |
+| Void | `0.9.0` | ✅ latest |
+| Alpine edge | `0.9.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.9.0` | ✅ latest |
 
 ## Improve this data
 
@@ -69,4 +81,4 @@ Install metadata for impala lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:36:35Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:27:00Z._
